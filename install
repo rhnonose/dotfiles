@@ -2,7 +2,7 @@
 
 DOTFILES_ROOT=$(cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd)
 
-DOTFILES=(vimrc tmux.conf bash_aliases)
+DOTFILES=(vimrc tmux tmux.conf bash_aliases)
 if [[ "$(uname -s)" == *CYGWIN* ]]
 then
   DOTFILES+=(minttyrc)
