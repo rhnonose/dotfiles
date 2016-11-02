@@ -10,3 +10,6 @@
 [submodule "vim/bundle/vim-elixir"]
 	path = vim/bundle/vim-elixir
 	url = https://github.com/elixir-lang/vim-elixir
+[submodule "vim/bundle/setcolors"]
+	path = vim/bundle/setcolors
+	url = https://github.com/felixhummel/setcolors.vim
