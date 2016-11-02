@@ -8,3 +8,4 @@ nnoremap <Down> <nop>
 runtime bundle/vim-pathogen/autoload/pathogen.vim
 execute pathogen#infect()
 
+colorscheme 256-jungle
