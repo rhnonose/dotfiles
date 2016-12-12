@@ -7,3 +7,6 @@ alias fe='git fetch --all'
 alias ff='git merge --ff-only'
 alias ffdev='git merge --ff-only origin/develop'
 alias ffmas='git merge --ff-only origin/master'
+alias gm='git commit -m'
+alias ga='git add .'
+
